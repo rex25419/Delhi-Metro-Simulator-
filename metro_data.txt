@@ -1,1 +1,114 @@
+Blue Line 1, Dwarka Sector 21, Dwarka Sector 8, 3 min, No
+Blue Line 1, Dwarka Sector 8, Dwarka Sector 9, 2 min, No
+Blue Line 1, Dwarka Sector 9, Dwarka Sector 10, 3 min, No
+Blue Line 1, Dwarka Sector 10, Dwarka Sector 11, 2 min, No
+Blue Line 1, Dwarka Sector 11, Dwarka Sector 12, 2 min, No
+Blue Line 1, Dwarka Sector 12, Dwarka Sector 13, 2 min, No
+Blue Line 1, Dwarka Sector 13, Dwarka Sector 14, 2 min, No
+Blue Line 1, Dwarka Sector 14, Dwarka, 2 min, No
+Blue Line 1, Dwarka, Dwarka Mor, 2 min, No
+Blue Line 1, Dwarka Mor, Nawada, 3 min, No
+Blue Line 1, Nawada, Uttam Nagar West, 2 min, No
+Blue Line 1, Uttam Nagar West, Uttam Nagar East, 2 min, No
+Blue Line 1, Uttam Nagar East, Janakpuri West, 2 min, Yes
+Blue Line 1, Janakpuri West, Janakpuri East, 2 min, Yes
+Blue Line 1, Janakpuri East, Tilak Nagar, 2 min, No
+Blue Line 1, Tilak Nagar, Subhash Nagar, 2 min, No
+Blue Line 1, Subhash Nagar, Tagore Garden, 2 min, No
+Blue Line 1, Tagore Garden, Rajouri Garden, 2 min, No
+Blue Line 1, Rajouri Garden, Ramesh Nagar, 2 min, No
+Blue Line 1, Ramesh Nagar, Moti Nagar, 2 min, No
+Blue Line 1, Moti Nagar, Kirti Nagar, 2 min, No
+Blue Line 1, Kirti Nagar, Shadipur, 2 min, No
+Blue Line 1, Shadipur, Patel Nagar, 2 min, No
+Blue Line 1, Patel Nagar, Rajendra Place, 2 min, No
+Blue Line 1, Rajendra Place, Karol Bagh, 2 min, No
+Blue Line 1, Karol Bagh, Jhandewalan, 3 min, No
+Blue Line 1, Jhandewalan, Ramakrishna Ashram, 2 min, No
+Blue Line 1, Ramakrishna Ashram, Rajiv Chowk, 2 min, No
+Blue Line 1, Rajiv Chowk, Barakhamba Road, 2 min, No
+Blue Line 1, Barakhamba Road, Mandi House, 2 min, No
+Blue Line 1, Mandi House, Supreme Court, 2 min, No
+Blue Line 1, Supreme Court, Indraprastha, 2 min, No
+Blue Line 1, Indraprastha, Yamuna Bank, 3 min, Yes
+Blue Line 1, Yamuna Bank, Akshardham, 3 min, No
+Blue Line 1, Akshardham, Mayur Vihar 1, 3 min, No
+Blue Line 1, Mayur Vihar 1, Mayur Vihar Extension, 2 min, No
+Blue Line 1, Mayur Vihar Extension, New Ashok Nagar, 2 min, No
+Blue Line 1, New Ashok Nagar, Noida Sector 15, 2 min, No
+Blue Line 1, Noida Sector 15, Noida Sector 16, 2 min, No
+Blue Line 1, Noida Sector 16, Noida Sector 18, 2 min, No
+Blue Line 1, Noida Sector 18, Botanical Garden, 3 min, Yes
+Blue Line 1, Botanical Garden, Golf Course, 2 min, Yes
+Blue Line 1, Golf Course, Noida City Centre, 2 min, No
+Blue Line 1, Noida City Centre, Noida Sector 34, 2 min, No
+Blue Line 1, Noida Sector 34, Noida Sector 52, 2 min, No
+Blue Line 1, Noida Sector 52, Noida Sector 61, 2 min, No
+Blue Line 1, Noida Sector 61, Noida Sector 59, 2 min, No
+Blue Line 1, Noida Sector 59, Noida Sector 62, 2 min, No
+Blue Line 1, Noida Sector 62, Noida Electronic City, 2 min, No
+Blue Line 2, Dwarka Sector 21, Dwarka Sector 8, 3 min, No
+Blue Line 2, Dwarka Sector 8, Dwarka Sector 9, 2 min, No
+Blue Line 2, Dwarka Sector 9, Dwarka Sector 10, 3 min, No
+Blue Line 2, Dwarka Sector 10, Dwarka Sector 11, 2 min, No
+Blue Line 2, Dwarka Sector 11, Dwarka Sector 12, 2 min, No
+Blue Line 2, Dwarka Sector 12, Dwarka Sector 13, 2 min, No
+Blue Line 2, Dwarka Sector 13, Dwarka Sector 14, 2 min, No
+Blue Line 2, Dwarka Sector 14, Dwarka, 2 min, No
+Blue Line 2, Dwarka, Dwarka Mor, 2 min, No
+Blue Line 2, Dwarka Mor, Nawada, 2 min, No
+Blue Line 2, Nawada, Uttam Nagar West, 2 min, No
+Blue Line 2, Uttam Nagar West, Uttam Nagar East, 2 min, No
+Blue Line 2, Uttam Nagar East, Janakpuri West, 2 min, Yes
+Blue Line 2, Janakpuri West, Janakpuri East, 2 min, Yes
+Blue Line 2, Janakpuri East, Tilak Nagar, 2 min, No
+Blue Line 2, Tilak Nagar, Subhash Nagar, 2 min, No
+Blue Line 2, Subhash Nagar, Tagore Garden, 2 min, No
+Blue Line 2, Tagore Garden, Rajouri Garden, 2 min, No
+Blue Line 2, Rajouri Garden, Ramesh Nagar, 2 min, No
+Blue Line 2, Ramesh Nagar, Moti Nagar, 2 min, No
+Blue Line 2, Moti Nagar, Kirti Nagar, 2 min, No
+Blue Line 2, Kirti Nagar, Shadipur, 2 min, No
+Blue Line 2, Shadipur, Patel Nagar, 2 min, No
+Blue Line 2, Patel Nagar, Rajendra Place, 2 min, No
+Blue Line 2, Rajendra Place, Karol Bagh, 2 min, No
+Blue Line 2, Karol Bagh, Jhandewalan, 2 min, No
+Blue Line 2, Jhandewalan, Ramakrishna Ashram, 2 min, No
+Blue Line 2, Ramakrishna Ashram, Rajiv Chowk, 2 min, No
+Blue Line 2, Rajiv Chowk, Barakhamba Road, 2 min, No
+Blue Line 2, Barakhamba Road, Mandi House, 2 min, No
+Blue Line 2, Mandi House, Supreme Court, 2 min, No
+Blue Line 2, Supreme Court, Indraprastha, 3 min, No
+Blue Line 2, Indraprastha, Yamuna Bank, 3 min, Yes
+Blue Line 2, Yamuna Bank, Laxmi Nagar, 3 min, No
+Blue Line 2, Laxmi Nagar, Nirman Vihar, 2 min, No
+Blue Line 2, Nirman Vihar, Preet Vihar, 3 min, No
+Blue Line 2, Preet Vihar, Karkarduma, 2 min, No
+Blue Line 2, Karkarduma, Anand Vihar ISBT, 2 min, No
+Blue Line 2, Anand Vihar ISBT, Kaushambi, 2 min, No
+Blue Line 2, Kaushambi, Vaishali, 2 min, No
+Magenta Line, Janakpuri West, Dabri Mor – Janakpuri South, 2 min, Yes
+Magenta Line, Dabri Mor, Dashrath Puri, 2 min, No
+Magenta Line, Dashrath Puri, Palam, 2 min, No
+Magenta Line, Palam, Sadar Bazaar Cantonment, 2 min, No
+Magenta Line, Sadar Bazaar Cantonment, Terminal 1–IGI Airport, 3 min, No
+Magenta Line, Terminal 1–IGI Airport, Shankar Vihar, 2 min, No
+Magenta Line, Shankar Vihar, Vasant Vihar, 2 min, No
+Magenta Line, Vasant Vihar, Munirka, 2 min, No
+Magenta Line, Munirka, R.K. Puram, 2 min, No
+Magenta Line, R.K. Puram, IIT Delhi, 2 min, No
+Magenta Line, IIT Delhi, Hauz Khas, 2 min, No
+Magenta Line, Hauz Khas, Panchsheel Park, 2 min, No
+Magenta Line, Panchsheel Park, Chirag Delhi, 2 min, No
+Magenta Line, Chirag Delhi, Greater Kailash, 2 min, No
+Magenta Line, Greater Kailash, Nehru Enclave, 2 min, No
+Magenta Line, Nehru Enclave, Kalkaji Mandir, 2 min, No
+Magenta Line, Kalkaji Mandir, Okhla NSIC, 2 min, No
+Magenta Line, Okhla NSIC, Sukhdev Vihar, 2 min, No
+Magenta Line, Sukhdev Vihar, Jamia Millia Islamia, 2 min, No
+Magenta Line, Jamia Millia Islamia, Okhla Vihar, 2 min, No
+Magenta Line, Okhla Vihar, Jasola Vihar–Shaheen Bagh, 4 min, No
+Magenta Line, Jasola Vihar–Shaheen Bagh, Kalindi Kunj, 2 min, No
+Magenta Line, Kalindi Kunj, Okhla Bird Sanctuary, 2 min, No
+Magenta Line, Okhla Bird Sanctuary, Botanical Garden, 2 min, Yes
 
